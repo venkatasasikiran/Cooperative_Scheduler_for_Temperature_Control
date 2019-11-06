@@ -1,0 +1,1 @@
+"./adc.obj" "./bluetooth.obj" "./fan_controller_main.obj" "./measurement.obj" "./push_button.obj" "./pwm.obj" "./scheduler.obj" "../lnk_msp430fr6989.cmd" -l"libmath.a" -l"libc.a" 
